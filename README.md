@@ -2,10 +2,10 @@
 Universal Updater Script for linux
 
 # make sure before run this script on root user
-setup uuscript
-git clone https://github.com/N4x3r/uuscript/
-cd uuscript
-chmod +x uscript.sh
-sudo bash uuscript.sh
-or
-sudo ./uuscript.sh
+<b>setup uuscript</b> <br>
+$ git clone https://github.com/N4x3r/uuscript/ <br>
+$ cd uuscript <br>
+$ chmod +x uscript.sh <br>
+$ sudo bash uuscript.sh <br>
+$ or<br>
+$ sudo ./uuscript.sh <br>
